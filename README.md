@@ -79,6 +79,10 @@ Let’s connect, build, break (ethically), and grow together.
 
 ---
 
+![Keploy API Fellow](https://github.com/aryanlikebugs/aryanlikebugs/blob/main/_Aryan_Gupta_keploy_id_hd%20(1).png?raw=true)
+
+---
+
 Thanks for stopping by! 😊
 
 ---
