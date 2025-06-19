@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aryanlikebugs"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/aryan-gupta-89b413260/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:aryan45gupta@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/aryanlikebugs"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /></a>
 </p>
@@ -62,7 +62,7 @@ Current Focus: Backend Development, API Testing & Automation
 ### 📫 Let's Chat
 
 - 📧 **Email**: aryan45gupta@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/aryanlikebugs](https://linkedin.com/in/aryanlikebugs)  
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/aryan-gupta-89b413260/](https://www.linkedin.com/in/aryan-gupta-89b413260/)  
 - 🧑‍💻 **GitHub**: [github.com/aryanlikebugs](https://github.com/aryanlikebugs)  
 
 ---
