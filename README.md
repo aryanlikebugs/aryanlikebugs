@@ -10,19 +10,17 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-```yaml
-Name: Aryan Gupta
-Degree: B.Tech, Computer Science & Engineering (2026)
-University: KIIT Deemed to be University
-CGPA: 8.11
-Current Focus: Backend Development, API Testing & Automation
-```
+Hey there! 👋 I'm **Aryan Gupta**, a self-driven developer pursuing B.Tech in Computer Science from **KIIT (2026 batch)**. I specialize in **full-stack development** with a backend-heavy focus, and I love bringing ideas to life through **clean code, scalable systems, and real-world impact.**
 
-🎯 **Keploy API Fellow** (Selected from 18.5k+ applicants!)
+- 🛠️ Currently upskilling in **API testing and automation** as a proud **Keploy API Fellow** (selected from 18.5k+ applicants!)
+- 💻 Built an internal **e-commerce portal for coal procurement** during my internship at **Central Coalfields Ltd**, using **MERN + FastAPI**
+- 🧠 Passionate about building products that blend **engineering and empathy** — be it entrepreneurship at Enactus or community platforms at KIIT E-Cell
+- 🧪 I enjoy debugging APIs, writing clean RESTful services, and exploring the developer experience side of backend tools
 
-👨‍💻 **Software Engineering Intern @ CCL** – Built an internal e-commerce coal procurement portal using MERN & FastAPI
+📌 I believe **good code tells a story** – and I’m here to write meaningful chapters 🚀  
+Let’s connect, build, break (ethically), and grow together.
 
 ---
 
