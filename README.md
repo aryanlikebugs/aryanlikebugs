@@ -78,8 +78,11 @@ Let’s connect, build, break (ethically), and grow together.
 </p>
 
 ---
+<h3 align="center">🚀 Keploy API Fellow</h3>
 
-![Keploy API Fellow](https://github.com/aryanlikebugs/aryanlikebugs/blob/main/_Aryan_Gupta_keploy_id_hd%20(1).png?raw=true)
+<p align="center">
+  <img src="https://github.com/aryanlikebugs/aryanlikebugs/blob/main/_Aryan_Gupta_keploy_id_hd%20(1).png?raw=true" alt="Keploy API Fellow" width="250"/>
+</p>
 
 ---
 
