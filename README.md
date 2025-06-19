@@ -16,8 +16,7 @@
 Name: Aryan Gupta
 Degree: B.Tech, Computer Science & Engineering (2026)
 University: KIIT Deemed to be University
-CGPA: 7.94
-Languages: English, Hindi
+CGPA: 8.11
 Current Focus: Backend Development, API Testing & Automation
 ```
 
@@ -25,25 +24,31 @@ Current Focus: Backend Development, API Testing & Automation
 
 👨‍💻 **Software Engineering Intern @ CCL** – Built an internal e-commerce coal procurement portal using MERN & FastAPI
 
-📢 **Senior Executive @ KIIT E-CELL** – Leading PR and Sponsorship efforts for national summits
-
-🌿 **Core Member @ Enactus KIIT** – Working on sustainability-driven projects: Banana Fabric, Kamdhenu, Heritage Haven
-
-🎗️ **Volunteer @ Vishalakshi Foundation** – Community mentoring & social impact since 2021
-
 ---
 
-### 🧠 Tech Toolbox
+### 🧰 Tech Toolbox
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=flask&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ---
 
 ### 📌 Projects That I Love
@@ -51,14 +56,6 @@ Current Focus: Backend Development, API Testing & Automation
 - 🛒 **Coal Procurement Portal** – MERN + FastAPI project for CCL to streamline inventory and orders
 - 📚 **Study Abroad Platform** – ML + MERN project recommending universities with real-time dashboards
 - 🧮 **Java Calculator & Games** – OOP-focused Java projects including a basic calculator and JS games
-
----
-
-### 🏆 Highlights & Recognition
-
-- 🥇 **1st Place** – GIZ Neighbourhood Activity (National Level)
-- 🥈 **Silver Medalist** – SOF NSO (School Level)
-- 🥇 **Gold Medalist** – 15th NSO with Intl. Rank 2784, State Rank 57
 
 ---
 
